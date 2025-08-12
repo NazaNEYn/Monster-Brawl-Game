@@ -23,6 +23,23 @@ Monster Brawl is a simple, turn-based combat game written in Python. You play as
 3. **Run the game from your terminal:**
    `python main.py`
 4. **Follow the on-screen prompts** to select your monster class and engage in combat.
+<hr>
+
+# 📁 Code Structure
+* `main.py`: The main script that runs the game. It contains the game loop, user input handling, and combat flow.
+
+* `fighter.py`: Defines the `Fighter` class, which serves as the blueprint for all characters (both the player and the enemy).
+
+* `character_class.py`: Handles the logic for character selection and class attributes.
+
+* `character_class_list.py`: Stores the data for the different monster classes available.
+
+* `ascii.py`: Contains the ASCII art used for the game's visuals.
+<hr>
+
+# 🛠️ Requirements
+* Python 3.x
+<hr>
 
 
 
