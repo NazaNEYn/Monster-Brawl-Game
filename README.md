@@ -10,7 +10,7 @@ Monster Brawl is a simple, turn-based combat game written in Python. You play as
 
 * **One-Time Superpower**: Unleash a special attack that deals double damage, but can only be used once per game.
 
-* **Conditional Enemy AI**: The enemy enters a frenzied state when its health drops below 50%, increasing its aggression.
+* **Conditional Enemy**: The enemy enters a frenzied state when its health drops below 50%, increasing its aggression.
 
 * **Simple Command** Interface: The game is controlled entirely through command-line input.
 <hr>
