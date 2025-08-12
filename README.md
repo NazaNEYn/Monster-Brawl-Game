@@ -41,6 +41,8 @@ Monster Brawl is a simple, turn-based combat game written in Python. You play as
 * Python 3.x
 <hr>
 
+## OR
+You can simply check out **[this link](https://programiz.pro/ide/python/GQSXQ8LPQ7?utm_medium=playground&utm_source=python-shared-project-link)**, log in and just run the game
 
 
 
