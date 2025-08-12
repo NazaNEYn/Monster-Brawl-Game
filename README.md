@@ -16,13 +16,19 @@ Monster Brawl is a simple, turn-based combat game written in Python. You play as
 <hr>
 
 # 🎮 How to Play
-1. **Clone the repository:**
-   `git clone [repository-url]`
-2. **Navigate to the project directory:**
-   `cd [project-name]`
-3. **Run the game from your terminal:**
-   `python main.py`
-4. **Follow the on-screen prompts** to select your monster class and engage in combat.
+1. **Clone the repository:**<br>
+  ```
+  git clone [repository-url]
+  ```
+3. **Navigate to the project directory:**<br>
+   ```
+   cd [project-name]
+   ```
+5. **Run the game from your terminal:**
+   ```
+   python main.py
+   ```
+7. **Follow the on-screen prompts** to select your monster class and engage in combat.
 <hr>
 
 # 📁 Code Structure
