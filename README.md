@@ -30,15 +30,16 @@ Monster Brawl is a simple, turn-based combat game written in Python. You play as
    ```
 7. **Follow the on-screen prompts** to select your monster class and engage in combat.
 
-### OR
-You can simply check out **[this link](https://programiz.pro/ide/python/GQSXQ8LPQ7?utm_medium=playground&utm_source=python-shared-project-link)**, log in and just run the game
+   .
+    ### OR
+    You can simply check out **[this link](https://programiz.pro/ide/python/GQSXQ8LPQ7?utm_medium=playground&utm_source=python-shared-project-link)**, log in and just run the game
 
-### OR
+   ### OR
 
-Build with docker and run it.
-```bash
-docker build --tag=monsterbrawlgame . ; docker run -it monsterbrawlgame
-```
+   Build with docker and run it.
+   ```bash
+   docker build --tag=monsterbrawlgame . ; docker run -it monsterbrawlgame
+   ```
 <hr>
 
 # 📁 Code Structure
